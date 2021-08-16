@@ -1,0 +1,19 @@
+{
+  "name": "anand-cp02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roa-2021/Anand-CP02.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roa-2021/Anand-CP02/issues"
+  },
+  "homepage": "https://github.com/roa-2021/Anand-CP02#readme"
+}
